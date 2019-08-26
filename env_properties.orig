@@ -1,4 +1,7 @@
 this is common file
+<<<<<<< HEAD
 this is ansible chnage 
+=======
 this is docker chnage 
 this is jenkins change
+>>>>>>> master
